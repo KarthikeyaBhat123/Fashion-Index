@@ -1,0 +1,32 @@
+[
+    {
+        "imagePath" : "Casual Pant.jpeg",
+        "imageName" : "Casual Pant",
+        "price" : "INR 1000"
+    },
+    {
+        "imagePath" : "formal Pant.jpeg",
+        "imageName" : "Formal Pant",
+        "price" : "INR 2000"
+    },
+    {
+        "imagePath" : "formal shirt.jpeg",
+        "imageName" : "Formal Shirt",
+        "price" : "INR 500"
+    },
+    {
+        "imagePath" : "full arm t-Shirt.jpeg",
+        "imageName" : "Full Arm T-Shirt",
+        "price" : "INR 100"
+    },
+    {
+        "imagePath" : "jeans pant.jpeg",
+        "imageName" : "Jeans Pant",
+        "price" : "INR 900"
+    },
+    {
+        "imagePath" : "t-shirt.jpeg",
+        "imageName" : "T-Shirt",
+        "price" : "INR 1000"
+    }
+]

@@ -1,0 +1,95 @@
+{
+  "name": "ism",
+  "version": "999.999.999",
+  "private": true,
+  "dependencies": {
+    "@intc/react-app-frame": "^0.9.8",
+    "ag-grid-community": "^21.2.2",
+    "ag-grid-enterprise": "^21.2.2",
+    "ag-grid-react": "^21.2.2",
+    "anchor": "^1.4.0",
+    "axios": "^0.19.1",
+    "bootstrap": "^4.4.1",
+    "chartjs-plugin-zoom": "^0.7.7",
+    "eslint-plugin-react": "^7.17.0",
+    "import": "0.0.6",
+    "it-mlaf-sass-bs4": "^6.1.2",
+    "loaders.css": "^0.1.2",
+    "mdbreact": "^4.24.0",
+    "moment": "^2.24.0",
+    "muicss": "^0.9.43",
+    "nginx": "0.0.0",
+    "nginx-conf": "^1.5.0",
+    "react": "^16.11.0",
+    "react-addons-update": "^15.6.2",
+    "react-app-frame": "^0.1.1",
+    "react-app-polyfill": "^1.0.5",
+    "react-block-ui": "^1.3.2",
+    "react-bootstrap": "^1.0.0-beta.16",
+    "react-chartjs-2": "^2.11.1",
+    "react-charts": "^2.0.0-beta.7",
+    "react-confirm-alert": "^2.5.1",
+    "react-datepicker": "^2.11.0",
+    "react-datetime": "^2.16.3",
+    "react-dom": "^16.11.0",
+    "react-helmet": "^5.2.1",
+    "react-icons": "^3.8.0",
+    "react-input": "^4.1.3",
+    "react-inputs-validation": "^4.3.3",
+    "react-loaders": "^3.0.1",
+    "react-loading-overlay": "^1.0.1",
+    "react-month-picker-input": "^1.3.8",
+    "react-radio-buttons": "^1.2.2",
+    "react-redux": "^7.1.3",
+    "react-router": "^5.1.2",
+    "react-router-dom": "^5.1.2",
+    "react-router-tabs": "^1.3.2",
+    "react-scripts": "3.0.1",
+    "react-select": "^3.0.8",
+    "react-smooth-marquee": "^1.0.0",
+    "react-snapshot": "^1.3.0",
+    "react-spinners": "^0.6.1",
+    "react-tabs": "^3.1.0",
+    "reactjs-popup": "^1.5.0",
+    "reactstrap": "^8.2.0",
+    "redux": "^4.0.5",
+    "redux-thunk": "^2.3.0",
+    "redux-watch": "^1.1.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build && react-snapshot",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app",
+    "settings": {
+      "react": {
+        "version": "999.999.999"
+      }
+    }
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "ie 11",
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-es2015-ie": "^6.7.0",
+    "eslint-import-resolver-webpack": "^0.11.1",
+    "eslint-plugin-import": "^2.20.0",
+    "eslint-plugin-react-hooks": "^2.3.0",
+    "node-sass": "^4.13.0",
+    "redux-devtools-extension": "^2.13.8"
+  }
+}
